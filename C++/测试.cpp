@@ -1,0 +1,8 @@
+class Solution {
+public:
+    bool isPowerOfTwo(int n) {
+        while(n %2 == 0){
+            int i = 0;
+        }
+    }
+};
