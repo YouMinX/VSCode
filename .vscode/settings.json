@@ -1,3 +1,4 @@
 {
-  "pasteImage.path": "D:/01-Documents/VSCode/notes/408/images-1"
+  "pasteImage.path": "D:/01-Documents/VSCode/notes/408/images-1",
+  "pasteImage.insertPattern": "![](/notes/408/images-1/${imageFileName})"
 }
